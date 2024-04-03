@@ -48,5 +48,5 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: milan1003/kii-demo-01:latest          
+          tags: milan1003/kii-demo-05:latest          
           
